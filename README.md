@@ -1,9 +1,9 @@
 # Modelos-de-Computacion
 
 ### Método de compilación:
-- lex plantilla.l (si no se tiene lex, usar flex)
-- gcc lex.yy.c –o prog –ll (gcc lex.yy.c –o prog –lfl en el caso de usar flex)
-- ./prog <Nombre_Fichero>
+- `lex plantilla.l` (si no se tiene lex, usar flex)
+- `gcc lex.yy.c –o prog –ll` (`gcc lex.yy.c –o prog –lfl` en el caso de usar flex)
+- `./prog <Nombre_Fichero>`
 
 ## Práctica 1:
 ### 4 ejercicios básicos usando LEX
@@ -46,11 +46,11 @@ exclamación ¡ o la ñ.
 ### 3.- Método de Compilación
 Se debe extraer el fichero "plantilla.l" y un fichero de texto simple que contendrá el texto de prueba en una misma carpeta. Entonces, haciendo uso de la terminal, haremos: 
  
-- lex plantilla.l (si no se tiene lex, usar flex) 
+- `lex plantilla.l` (si no se tiene lex, usar flex) 
  
-- gcc lex.yy.c –o prog –ll (gcc lex.yy.c –o prog –lfl en el caso de usar flex) Se nos mostrarán 3 warnings por pantalla, pero no afectarán a la ejecución del programa. 
+- `gcc lex.yy.c –o prog –ll` (`gcc lex.yy.c –o prog –lfl` en el caso de usar flex) Se nos mostrarán 3 warnings por pantalla, pero no afectarán a la ejecución del programa. 
  
-- ./prog <Nombre_Fichero_Que_Contiene_La_Prueba> 
+- `./prog <Nombre_Fichero_Que_Contiene_La_Prueba>`
  
 ### 4.- Explicación del código
 ### Sección de Declaraciones:
