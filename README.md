@@ -1,4 +1,4 @@
-# Modelos-de-Computacion
+# Modelos de Computacion
 
 ### Método de compilación:
 - `lex plantilla.l` (si no se tiene lex, usar flex)
