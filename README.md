@@ -1,5 +1,7 @@
 # Modelos de Computacion
 
+## Prácticas de la asignatura MC en la UGR
+
 ### Método de compilación:
 - `lex plantilla.l` (si no se tiene lex, usar flex)
 - `gcc lex.yy.c –o prog –ll` (`gcc lex.yy.c –o prog –lfl` en el caso de usar flex)
