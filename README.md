@@ -1,6 +1,6 @@
 # Modelos de Computacion
 
-## Prácticas de la asignatura MC en la UGR
+## Prácticas de la asignatura MC en la UGR-2017
 
 ### Método de compilación:
 - `lex plantilla.l` (si no se tiene lex, usar flex)
